@@ -12,12 +12,9 @@
       <sprite>sprites\spr_tree2</sprite>
       <sprite>sprites\spr_tree</sprite>
       <sprite>sprites\spr_player</sprite>
-<<<<<<< HEAD
       <sprite>sprites\spr_bench</sprite>
       <sprite>sprites\spr_house_small</sprite>
-=======
       <sprite>sprites\spr_animatedFerdz</sprite>
->>>>>>> origin/master
     </sprites>
     <sprites name="Utils">
       <sprite>sprites\spr_collision_elipse</sprite>
