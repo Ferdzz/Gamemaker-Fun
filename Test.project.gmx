@@ -12,6 +12,8 @@
       <sprite>sprites\spr_tree2</sprite>
       <sprite>sprites\spr_tree</sprite>
       <sprite>sprites\spr_player</sprite>
+      <sprite>sprites\spr_bench</sprite>
+      <sprite>sprites\spr_house_small</sprite>
     </sprites>
     <sprites name="Utils">
       <sprite>sprites\spr_collision_elipse</sprite>
@@ -28,14 +30,17 @@
       <object>objects\obj_music</object>
       <object>objects\obj_collision</object>
       <object>objects\obj_collision_ellipse</object>
+      <object>objects\obj_slow</object>
     </objects>
     <objects name="Game Objects">
       <object>objects\obj_player</object>
       <object>objects\obj_tree</object>
       <object>objects\obj_tree2</object>
+      <object>objects\object7</object>
+      <object>objects\obj_bench</object>
+      <object>objects\obj_house_small</object>
     </objects>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\rm_spawn</room>
   </rooms>
