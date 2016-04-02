@@ -17,7 +17,6 @@
       <sprite>sprites\spr_animatedFerdz</sprite>
     </sprites>
     <sprites name="Utils">
-      <sprite>sprites\spr_collision_elipse</sprite>
       <sprite>sprites\spr_collision</sprite>
     </sprites>
   </sprites>
@@ -30,14 +29,12 @@
       <object>objects\obj_depthController</object>
       <object>objects\obj_music</object>
       <object>objects\obj_collision</object>
-      <object>objects\obj_collision_ellipse</object>
       <object>objects\obj_slow</object>
     </objects>
     <objects name="Game Objects">
       <object>objects\obj_player</object>
       <object>objects\obj_tree</object>
       <object>objects\obj_tree2</object>
-      <object>objects\object7</object>
       <object>objects\obj_bench</object>
       <object>objects\obj_house_small</object>
     </objects>
