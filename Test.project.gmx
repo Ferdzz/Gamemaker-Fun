@@ -12,6 +12,7 @@
       <sprite>sprites\spr_tree2</sprite>
       <sprite>sprites\spr_tree</sprite>
       <sprite>sprites\spr_player</sprite>
+      <sprite>sprites\spr_animatedFerdz</sprite>
     </sprites>
     <sprites name="Utils">
       <sprite>sprites\spr_collision_elipse</sprite>
@@ -35,7 +36,6 @@
       <object>objects\obj_tree2</object>
     </objects>
   </objects>
-  <timelines name="timelines"/>
   <rooms name="rooms">
     <room>rooms\rm_spawn</room>
   </rooms>
